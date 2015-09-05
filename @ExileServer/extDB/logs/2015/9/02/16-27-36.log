@@ -1,0 +1,72 @@
+extDB2: Version: 65
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Debug Version
+
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 32 Cores, Setting up 6 Worker Threads
+
+
+[17:27:36:328517 +01:00] [Thread 4664] extDB2: Input from Server: 9:VERSION
+[17:27:36:328517 +01:00] [Thread 4664] extDB2: Output to Server: 65
+[17:27:36:328517 +01:00] [Thread 4664] extDB2: Input from Server: 9:ADD_DATABASE:exile
+[17:27:36:328517 +01:00] [Thread 4664] extDB2: Database Type: MySQL
+[17:27:36:334518 +01:00] [Thread 4664] extDB2: Database Session Pool Started
+[17:27:36:334518 +01:00] [Thread 4664] extDB2: Output to Server: [1]
+[17:27:36:334518 +01:00] [Thread 4664] extDB2: Input from Server: 9:ADD_DATABASE_PROTOCOL:exile:SQL_CUSTOM_V2:4256:exile
+[17:27:36:336518 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\TCAFiles\Users\SamF\13442\@ExileServer\extDB\sql_custom_v2\exile.ini
+[17:27:36:336518 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Version 8 Detected, Latest Version 12 Available
+[17:27:36:339518 +01:00] [Thread 4664] extDB2: Output to Server: [1]
+[17:27:36:339518 +01:00] [Thread 4664] extDB2: Input from Server: 9:TIME
+[17:27:36:339518 +01:00] [Thread 4664] extDB2: Output to Server: [1,[2015, 9, 02, 16, 27]]
+[17:27:36:340518 +01:00] [Thread 4664] extDB2: Input from Server: 9:LOCK
+[17:27:36:340518 +01:00] [Thread 4664] extDB2: Output to Server: [1]
+[17:27:36:646536 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:loadTerriotryIdPage:0:100
+[17:27:36:646536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadTerriotryIdPage:0:100
+[17:27:36:647536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[17:27:36:647536 +01:00] [Thread 4664] extDB2: Output to Server: [1,[]]
+[17:27:36:647536 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:loadConstructionIdPage:0:100
+[17:27:36:647536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadConstructionIdPage:0:100
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: Output to Server: [1,[]]
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:loadVehicleIdPage:0:100
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadVehicleIdPage:0:100
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[17:27:36:648536 +01:00] [Thread 4664] extDB2: Output to Server: [1,[]]
+[17:27:36:649536 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:loadContainerIdPage:0:100
+[17:27:36:649536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadContainerIdPage:0:100
+[17:27:36:649536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[17:27:36:649536 +01:00] [Thread 4664] extDB2: Output to Server: [1,[]]
+[17:29:17:893327 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:isKnownAccount:76561198152304010
+[17:29:17:893327 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198152304010
+[17:29:17:931329 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[false]]]
+[17:29:17:931329 +01:00] [Thread 4664] extDB2: Output to Server: [1,[[false]]]
+[17:29:17:931329 +01:00] [Thread 4664] extDB2: Input from Server: 1:4256:createAccount:76561198152304010:PIKA BOO
+[17:29:17:931329 +01:00] [Thread 4664] extDB2: Output to Server: 
+[17:29:17:931329 +01:00] [Thread 26548] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: createAccount:76561198152304010:PIKA BOO
+[17:29:17:941329 +01:00] [Thread 26548] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[17:29:20:472474 +01:00] [Thread 4664] extDB2: Input from Server: 9:TIME
+[17:29:20:472474 +01:00] [Thread 4664] extDB2: Output to Server: [1,[2015, 9, 02, 16, 29]]
+[17:29:32:859183 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:hasAlivePlayer:76561198152304010
+[17:29:32:859183 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: hasAlivePlayer:76561198152304010
+[17:29:32:888184 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[false]]]
+[17:29:32:888184 +01:00] [Thread 4664] extDB2: Output to Server: [1,[[false]]]
+[17:29:38:752520 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:getAccountStats:76561198152304010
+[17:29:38:752520 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: getAccountStats:76561198152304010
+[17:29:38:782521 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[0,0,0,0,"",""]]]
+[17:29:38:782521 +01:00] [Thread 4664] extDB2: Output to Server: [1,[[0,0,0,0,"",""]]]
+[17:29:39:009534 +01:00] [Thread 4664] extDB2: Input from Server: 0:4256:createPlayer:76561198152304010:PIKA BOO
+[17:29:39:009534 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: createPlayer:76561198152304010:PIKA BOO
+[17:29:39:033536 +01:00] [Thread 4664] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[1,[]]]
+[17:29:39:033536 +01:00] [Thread 4664] extDB2: Output to Server: [1,[1,[]]]
+[17:29:39:034536 +01:00] [Thread 4664] extDB2: Input from Server: 1:4256:updatePlayer:PIKA BOO:1:0:0:100:100:0:1:0:0:0:0:0:61.01:17137.8:12719.4:0:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]::G_Combat:["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:1
+[17:29:39:034536 +01:00] [Thread 4664] extDB2: Output to Server: 
+[17:29:39:034536 +01:00] [Thread 26548] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:PIKA BOO:1:0:0:100:100:0:1:0:0:0:0:0:61.01:17137.8:12719.4:0:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]::G_Combat:["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:1
+[17:29:39:056537 +01:00] [Thread 26548] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]

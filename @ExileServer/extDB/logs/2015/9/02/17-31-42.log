@@ -1,0 +1,128 @@
+extDB2: Version: 65
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Debug Version
+
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 32 Cores, Setting up 6 Worker Threads
+
+
+[18:31:42:073481 +01:00] [Thread 26452] extDB2: Input from Server: 9:VERSION
+[18:31:42:073481 +01:00] [Thread 26452] extDB2: Output to Server: 65
+[18:31:42:073481 +01:00] [Thread 26452] extDB2: Input from Server: 9:ADD_DATABASE:exile
+[18:31:42:073481 +01:00] [Thread 26452] extDB2: Database Type: MySQL
+[18:31:42:086482 +01:00] [Thread 26452] extDB2: Database Session Pool Started
+[18:31:42:086482 +01:00] [Thread 26452] extDB2: Output to Server: [1]
+[18:31:42:087482 +01:00] [Thread 26452] extDB2: Input from Server: 9:ADD_DATABASE_PROTOCOL:exile:SQL_CUSTOM_V2:775275:exile
+[18:31:42:088482 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\TCAFiles\Users\SamF\13442\@ExileServer\extDB\sql_custom_v2\exile.ini
+[18:31:42:089482 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Version 8 Detected, Latest Version 12 Available
+[18:31:42:092483 +01:00] [Thread 26452] extDB2: Output to Server: [1]
+[18:31:42:092483 +01:00] [Thread 26452] extDB2: Input from Server: 9:TIME
+[18:31:42:092483 +01:00] [Thread 26452] extDB2: Output to Server: [1,[2015, 9, 02, 17, 31]]
+[18:31:42:092483 +01:00] [Thread 26452] extDB2: Input from Server: 9:LOCK
+[18:31:42:092483 +01:00] [Thread 26452] extDB2: Output to Server: [1]
+[18:31:42:667515 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadTerriotryIdPage:0:100
+[18:31:42:667515 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadTerriotryIdPage:0:100
+[18:31:42:669516 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:31:42:669516 +01:00] [Thread 26452] extDB2: Output to Server: [1,[]]
+[18:31:42:686517 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadConstructionIdPage:0:100
+[18:31:42:686517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadConstructionIdPage:0:100
+[18:31:42:687517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:31:42:687517 +01:00] [Thread 26452] extDB2: Output to Server: [1,[]]
+[18:31:42:687517 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadVehicleIdPage:0:100
+[18:31:42:687517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadVehicleIdPage:0:100
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: Output to Server: [1,[]]
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadContainerIdPage:0:100
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadContainerIdPage:0:100
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:31:42:688517 +01:00] [Thread 26452] extDB2: Output to Server: [1,[]]
+[18:32:19:016594 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:isKnownAccount:76561198135524863
+[18:32:19:016594 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198135524863
+[18:32:19:017595 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:32:19:018595 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:32:19:018595 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:startAccountSession:76561198135524863:LoCo
+[18:32:19:018595 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:32:19:018595 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198135524863:LoCo
+[18:32:19:033595 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:32:19:055597 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:isKnownAccount:76561198152304010
+[18:32:19:055597 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198152304010
+[18:32:19:056597 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:32:19:056597 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:32:19:056597 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:startAccountSession:76561198152304010:PIKA BOO
+[18:32:19:056597 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:32:19:057597 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198152304010:PIKA BOO
+[18:32:19:068597 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:33:05:514254 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:endAccountSession:76561198135524863
+[18:33:05:514254 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:33:05:515254 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: endAccountSession:76561198135524863
+[18:33:05:516254 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:updatePlayer:Biton Bouras:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[18:33:05:516254 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:33:05:516254 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:Biton Bouras:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[18:33:05:518254 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:33:05:530255 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:33:16:705894 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:endAccountSession:76561198152304010
+[18:33:16:705894 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:33:16:706894 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: endAccountSession:76561198152304010
+[18:33:16:706894 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:updatePlayer:Giannis Lagos:1:0:0:100:100:0:1:0:0:0:0:0:0:13234.7:11705.5:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[18:33:16:706894 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:33:16:706894 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:Giannis Lagos:1:0:0:100:100:0:1:0:0:0:0:0:0:13234.7:11705.5:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[18:33:16:707894 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:33:16:717895 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:33:37:954109 +01:00] [Thread 26452] extDB2: Input from Server: 9:TIME
+[18:33:37:954109 +01:00] [Thread 26452] extDB2: Output to Server: [1,[2015, 9, 02, 17, 33]]
+[18:34:08:653865 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:isKnownAccount:76561198135524863
+[18:34:08:653865 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198135524863
+[18:34:08:654865 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:34:08:654865 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:34:08:654865 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:startAccountSession:76561198135524863:LoCo
+[18:34:08:654865 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:34:08:657866 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198135524863:LoCo
+[18:34:08:681867 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:34:18:580433 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:hasAlivePlayer:76561198135524863
+[18:34:18:580433 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: hasAlivePlayer:76561198135524863
+[18:34:18:584433 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:34:18:584433 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:34:18:864449 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadPlayer:76561198135524863
+[18:34:18:864449 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadPlayer:76561198135524863
+[18:34:18:868450 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[4,"LoCo","76561198135524863",1,0,0,100,100,0,1,0,0,0,0,0,175.142,17137.8,12719.4,0,["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"],"",[],[],[],"","G_Aviator",["","","",""],"","","",[],"",["","","",""],"",["","","",""],"Exile_Uniform_BambiOverall",[],[["Exile_Item_PlasticBottleFreshWater",1]],[],"",[],[],[],0,0,0,1,"",""]]]
+[18:34:18:868450 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[4,"LoCo","76561198135524863",1,0,0,100,100,0,1,0,0,0,0,0,175.142,17137.8,12719.4,0,["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"],"",[],[],[],"","G_Aviator",["","","",""],"","","",[],"",["","","",""],"",["","","",""],"Exile_Uniform_BambiOverall",[],[["Exile_Item_PlasticBottleFreshWater",1]],[],"",[],[],[],0,0,0,1,"",""]]]
+[18:34:31:226156 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:isKnownAccount:76561198152304010
+[18:34:31:226156 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198152304010
+[18:34:31:227156 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:34:31:227156 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:34:31:227156 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:startAccountSession:76561198152304010:PIKA BOO
+[18:34:31:227156 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:34:31:229157 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198152304010:PIKA BOO
+[18:34:31:252158 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:34:36:715470 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:hasAlivePlayer:76561198152304010
+[18:34:36:715470 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: hasAlivePlayer:76561198152304010
+[18:34:36:716470 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[18:34:36:716470 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[true]]]
+[18:34:36:835477 +01:00] [Thread 26452] extDB2: Input from Server: 0:775275:loadPlayer:76561198152304010
+[18:34:36:835477 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadPlayer:76561198152304010
+[18:34:36:837477 +01:00] [Thread 26452] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[1,"PIKA BOO","76561198152304010",1,0,0.3502,83.1638,74.4906,0,1,0,0,0,0,0,351.449,17031.1,12681,0.0015049,["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"],"",[],[],[],"arifle_MX_SW_F","",["","","",""],"","H_HelmetCrew_B","",[["30Rnd_65x39_caseless_mag_Tracer",22]],"arifle_MX_SW_F",["","","",""],"",["","","",""],"Exile_Uniform_BambiOverall",[],[["Exile_Item_PlasticBottleFreshWater",1],["FlareGreen_F",1],["Exile_Item_Matches",10],["30Rnd_65x39_caseless_mag_Tracer",30]],[],"V_PlateCarrierIA2_dgtl",[],[],[],0,-500,0,0,"",""]]]
+[18:34:36:837477 +01:00] [Thread 26452] extDB2: Output to Server: [1,[[1,"PIKA BOO","76561198152304010",1,0,0.3502,83.1638,74.4906,0,1,0,0,0,0,0,351.449,17031.1,12681,0.0015049,["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"],"",[],[],[],"arifle_MX_SW_F","",["","","",""],"","H_HelmetCrew_B","",[["30Rnd_65x39_caseless_mag_Tracer",22]],"arifle_MX_SW_F",["","","",""],"",["","","",""],"Exile_Uniform_BambiOverall",[],[["Exile_Item_PlasticBottleFreshWater",1],["FlareGreen_F",1],["Exile_Item_Matches",10],["30Rnd_65x39_caseless_mag_Tracer",30]],[],"V_PlateCarrierIA2_dgtl",[],[],[],0,-500,0,0,"",""]]]
+[18:39:17:273517 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:updatePlayer:LoCo:1:0:0:94.6613:91.9904:0:1:0:0:0:0:0:233.433:17134.4:12716.2:0.00150585:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:4
+[18:39:17:273517 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:39:17:275518 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:LoCo:1:0:0:94.6613:91.9904:0:1:0:0:0:0:0:233.433:17134.4:12716.2:0.00150585:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:4
+[18:39:17:290518 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:39:48:107281 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:updatePlayer:PIKA BOO:1:0:0:77.6999:66.2906:0:1:0:0:0:0:0:330.157:17029.1:12686.6:0.00149345:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:arifle_MX_SW_F::["","","",""]::H_HelmetCrew_B::[["30Rnd_65x39_caseless_mag_Tracer",30]]:arifle_MX_SW_F:["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1],["FlareGreen_F",1],["Exile_Item_Matches",10],["30Rnd_65x39_caseless_mag_Tracer",22]]:[]:V_PlateCarrierIA2_dgtl:[]:[]:[]:1
+[18:39:48:107281 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:39:48:107281 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:PIKA BOO:1:0:0:77.6999:66.2906:0:1:0:0:0:0:0:330.157:17029.1:12686.6:0.00149345:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:arifle_MX_SW_F::["","","",""]::H_HelmetCrew_B::[["30Rnd_65x39_caseless_mag_Tracer",30]]:arifle_MX_SW_F:["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1],["FlareGreen_F",1],["Exile_Item_Matches",10],["30Rnd_65x39_caseless_mag_Tracer",22]]:[]:V_PlateCarrierIA2_dgtl:[]:[]:[]:1
+[18:39:48:118282 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:39:59:974960 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:endAccountSession:76561198135524863
+[18:39:59:974960 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:39:59:974960 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: endAccountSession:76561198135524863
+[18:39:59:976960 +01:00] [Thread 26452] extDB2: Input from Server: 1:775275:updatePlayer:LoCo:1:0:0:94.6613:91.9904:0:1:0:0:0:0:0:197.853:17134.4:12716.2:0.00159836:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:4
+[18:39:59:976960 +01:00] [Thread 26452] extDB2: Output to Server: 
+[18:39:59:976960 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:LoCo:1:0:0:94.6613:91.9904:0:1:0:0:0:0:0:197.853:17134.4:12716.2:0.00159836:["ItemMap","ItemCompass","Exile_Item_XM8","ItemRadio"]::[]:[]:[]:::["","","",""]::::[]::["","","",""]::["","","",""]:Exile_Uniform_BambiOverall:[]:[["Exile_Item_PlasticBottleFreshWater",1]]:[]::[]:[]:[]:4
+[18:39:59:987961 +01:00] [Thread 46776] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[18:39:59:999961 +01:00] [Thread 12068] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]

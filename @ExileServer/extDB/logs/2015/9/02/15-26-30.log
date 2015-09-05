@@ -1,0 +1,46 @@
+extDB2: Version: 65
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Debug Version
+
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 32 Cores, Setting up 6 Worker Threads
+
+
+[16:26:30:268831 +01:00] [Thread 6804] extDB2: Input from Server: 9:VERSION
+[16:26:30:269831 +01:00] [Thread 6804] extDB2: Output to Server: 65
+[16:26:30:269831 +01:00] [Thread 6804] extDB2: Input from Server: 9:ADD_DATABASE:exile
+[16:26:30:269831 +01:00] [Thread 6804] extDB2: Database Type: MySQL
+[16:26:30:276831 +01:00] [Thread 6804] extDB2: Database Session Pool Started
+[16:26:30:276831 +01:00] [Thread 6804] extDB2: Output to Server: [1]
+[16:26:30:276831 +01:00] [Thread 6804] extDB2: Input from Server: 9:ADD_DATABASE_PROTOCOL:exile:SQL_CUSTOM_V2:350900:exile
+[16:26:30:278831 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\TCAFiles\Users\SamF\13442\@ExileServer\extDB\sql_custom_v2\exile.ini
+[16:26:30:279831 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Version 8 Detected, Latest Version 12 Available
+[16:26:30:281832 +01:00] [Thread 6804] extDB2: Output to Server: [1]
+[16:26:30:281832 +01:00] [Thread 6804] extDB2: Input from Server: 9:TIME
+[16:26:30:281832 +01:00] [Thread 6804] extDB2: Output to Server: [1,[2015, 9, 02, 15, 26]]
+[16:26:30:282832 +01:00] [Thread 6804] extDB2: Input from Server: 9:LOCK
+[16:26:30:282832 +01:00] [Thread 6804] extDB2: Output to Server: [1]
+[16:26:31:104879 +01:00] [Thread 6804] extDB2: Input from Server: 0:350900:loadTerriotryIdPage:0:100
+[16:26:31:104879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadTerriotryIdPage:0:100
+[16:26:31:104879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[16:26:31:104879 +01:00] [Thread 6804] extDB2: Output to Server: [1,[]]
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: Input from Server: 0:350900:loadConstructionIdPage:0:100
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadConstructionIdPage:0:100
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: Output to Server: [1,[]]
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: Input from Server: 0:350900:loadVehicleIdPage:0:100
+[16:26:31:105879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadVehicleIdPage:0:100
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: Output to Server: [1,[]]
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: Input from Server: 0:350900:loadContainerIdPage:0:100
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadContainerIdPage:0:100
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[16:26:31:106879 +01:00] [Thread 6804] extDB2: Output to Server: [1,[]]
